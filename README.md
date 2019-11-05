@@ -5,7 +5,12 @@ Central place to store code snippets used during seminar presentations
 
 If you have code snippets for your presentation, please use the following steps to add it to the repository. This will ensure everyone in the class can use it for further iteration on their own time.
 
-1. Create a separate branch where you can add your changes.
+1. Ask the github repository mainters to add you as a contributer.
+2. Clone this git repository.
+```
+git clone git@github.com:iaisem/iai_seminar.git
+```
+2. Create a separate branch where you can add your changes.
 ```
 git checkout -b <branch_name>
 ```
